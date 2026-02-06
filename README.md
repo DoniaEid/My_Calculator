@@ -27,9 +27,6 @@ My_Calculator/
 ├── README.md
 └── LICENSE
 ```
-## 🎬 Demo
-
-![Calculator Demo](blob:https://web.whatsapp.com/e7d0287b-038f-4861-a351-3618175a2427)
 
 
 
