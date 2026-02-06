@@ -1,56 +1,32 @@
-# My_Calculator
-# Java Calculator GUI
+# 🏨 My Calculator Project
 
-A simple desktop calculator application developed using **Java Swing**.  
-The application provides basic arithmetic operations with an easy-to-use graphical interface.
+## 📌 Overview
+A simple desktop calculator built using **Java Swing**.  
+Supports basic arithmetic operations with a clean GUI.
 
-## Features
-- Addition, subtraction, multiplication, and division
-- Positive/negative number toggle
-- Decimal number support
+## 🛠️ Features
+- Addition, subtraction, multiplication, division
+- Decimal numbers
 - Clear and Off buttons
-- Simple and clean GUI design
+- Positive/negative toggle (+/-)
+- GUI implemented with Java Swing
 
-## Technologies Used
+## 💻 Technologies & Tools
 - Java
-- Java Swing (GUI)
-- NetBeans IDE
+- Java Swing
+- OOP concepts: Encapsulation, Inheritance, Polymorphism
+- Git & GitHub
 
-## How to Run
-1. Open the project in NetBeans.
-2. Build the project.
-3. Run the main class:
-=======
-# 🖩 Java Swing Calculator
+## 📂 Project Structure
+My_Calculator/
+├── src/
+│   ├── my_calculator/
+│   │   ├── NewJFrame.java
+│   │   └── My_Calculator.java
+├── README.md
+└── LICENSE
 
-A **modern desktop calculator** built with **Java Swing**, featuring basic arithmetic operations, clean UI, and interactive buttons.
+## 🎬 Demo
+- Insert screenshot or GIF showing the calculator in action
 
----
-
-## 🚀 Features
-
-- ✅ Addition, Subtraction, Multiplication, Division  
-- ✅ Positive/Negative toggle (+/-)  
-- ✅ Decimal number support  
-- ✅ Clear and Off buttons  
-- ✅ User-friendly **GUI design**  
-- ✅ Responsive layout (buttons adapt to the window size)
-
----
-
-## 🎨 Screenshots
-
-| Calculator Open | Performing Calculation |
-|-----------------|-----------------------|
-| ![Calculator Home](screenshots/home.png) | ![Calculator Calculation](screenshots/calc.png) |
-
-> 💡 *Add your screenshots in a `screenshots/` folder inside the project.*
-
----
-
-## ⚡ How It Works
-
-1. Run the main class:
-
-```bash
 
