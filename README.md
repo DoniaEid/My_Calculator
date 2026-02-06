@@ -27,8 +27,9 @@ My_Calculator/
 ├── README.md
 └── LICENSE
 ```
-
 ## 🎬 Demo
-- Insert screenshot or GIF showing the calculator in action
+
+![Calculator Demo](Calc.jfif)
+
 
 
