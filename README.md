@@ -17,6 +17,7 @@ Supports basic arithmetic operations with a clean GUI.
 - OOP concepts: Encapsulation, Inheritance, Polymorphism
 - Git & GitHub
 
+```text
 ## 📂 Project Structure
 My_Calculator/
 ├── src/
@@ -25,6 +26,7 @@ My_Calculator/
 │   │   └── My_Calculator.java
 ├── README.md
 └── LICENSE
+```
 
 ## 🎬 Demo
 - Insert screenshot or GIF showing the calculator in action
